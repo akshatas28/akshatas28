@@ -88,7 +88,7 @@ Currently focused on bringing together **DevOps + SRE + Cloud + GenAI** to solve
 
 # 🚀 Featured Projects
 
-## 🤖 OpsPilot — AI Incident-Diagnosis Agent
+## 🤖 OpsPilot - AI Incident-Diagnosis Agent
 
 **Python | LLM/RAG | Agentic AI**
 
