@@ -102,7 +102,7 @@ The project was developed for **Google Patchamomma 2026** and advanced to the fi
 
 ---
 
-## 🧠 Jarvis — Enterprise LLM/RAG Agent
+## 🧠 Jarvis - Enterprise LLM/RAG Agent
 
 **Python | LangChain | RAG | Vector Databases | Azure | Kubernetes**
 
